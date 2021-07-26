@@ -1,3 +1,7 @@
-Providing a user interface
+Providing a user interface-
 
-A User Interface is the way in which you interact with an operating system. The User Interface (UI) controls how a user enters data and instructions, as well as how information is displayed on screen. Two types of UIs are Graphical, and Command-Line. With a GUI, the way you interact with menus and visual images is by touching, pointing, tapping, or clicking buttons and objects to issue commands. Command-Line uses typed commands represented by short keywords or abbreviations, or by pressing special keys on the keyboard to enter data and instructions
+  A User Interface is the way in which you interact with an operating system. The User Interface (UI) controls how a user enters data and instructions, as well as how information is displayed on screen. Two types of UIs are Graphical, and Command-Line. With a GUI, the way you interact with menus and visual images is by touching, pointing, tapping, or clicking buttons and objects to issue commands. Command-Line uses typed commands represented by short keywords or abbreviations, or by pressing special keys on the keyboard to enter data and instructions
+
+Managing Programs-
+
+  The way in which an operating system handles programs can directly affect the user’s productivity. Operating systems can be either Single Tasking or Multitasking. A Single Tasking operating system allows only one program or app to run at a time, used on embedded computers and some mobile devices. Multitasking operating systems allows two or more programs or apps to be in memory at the same time, most computers today are Multitasking.
