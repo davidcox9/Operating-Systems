@@ -5,3 +5,7 @@ Providing a user interface-
 Managing Programs-
 
   The way in which an operating system handles programs can directly affect the user’s productivity. Operating systems can be either Single Tasking or Multitasking. A Single Tasking operating system allows only one program or app to run at a time, used on embedded computers and some mobile devices. Multitasking operating systems allows two or more programs or apps to be in memory at the same time, most computers today are Multitasking.
+
+Managing Memory-
+
+The job of Memory Managements is to optimize a computer or devices internal memory (RAM). A computers operating system assigns or allocates data and instructions to an area of its memory while the data is being processed. Afterword’s, it monitors the contents of memory closely. The last thing the operating system does is it releases the previously mentioned items from being monitored in the memory when the processor is finished with them.
